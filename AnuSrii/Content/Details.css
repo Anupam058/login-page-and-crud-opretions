@@ -1,0 +1,29 @@
+﻿body {
+    background-color: black;
+}
+.hadding {
+        text-align: center;
+    font-size: 37px;
+    background-color: coral;
+    width: 37%;
+    margin-left: 31%;
+    margin-bottom: 10px;
+}
+.create1 {
+       font-size: 31px;
+       margin-left: 68px;
+       background-color: honeydew;
+       width: 10%;
+}
+.table {
+     width: 100%;
+    font-size: 23px;
+background-color: cyan;
+}
+.back {
+    font-size: 25px;
+    margin-left: 82%;
+    margin-top: -88px;
+    position: absolute;
+background-color: honeydew;
+}

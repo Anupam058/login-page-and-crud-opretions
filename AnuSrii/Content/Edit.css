@@ -1,0 +1,22 @@
+﻿body {
+    background-color: #00bfff;
+}
+
+.hadding {
+    text-align: center;
+    font-size: 33px;
+}
+
+.form-horizontal {
+    margin-left: 38%;
+}
+
+.form-group {
+    font-size: 20px;
+    margin-block: 17px;
+}
+
+.back {
+    font-size: 25px;
+    margin-left: 82%;
+}

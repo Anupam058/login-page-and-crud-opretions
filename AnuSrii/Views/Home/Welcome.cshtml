@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "Welcome";
+}
+<head>
+    <link rel="stylesheet" href="~/Content/Welcome.css">
+</head>
+
+
+
+<div class="master">
+    <div class="hadding">
+        <h1>Welcome To My Home Page</h1>
+    </div>
+
+    <div class="logout">
+        <h4> @Html.ActionLink("LogOut","LogOut", "Home") </h4>
+    </div>
+</div>
+
+
+<div class="heads">
+    <div class="head fi">
+        @Html.ActionLink("Home", "Welcome")
+    </div>
+
+    <div class="head se">
+        @Html.ActionLink("ContactUs", "Contact")
+    </div>
+
+    <div class="head th">
+        @Html.ActionLink("Help", "Help")
+    </div>
+
+    <div class="head fr">
+        @Html.ActionLink("Employees", "Details")
+    </div>
+</div>
+
+
+<div class="mains">
+    <div class="forimg">
+        <img src="~/Content/anupamprofilepic.jpg" alt="annu">
+    </div>
+    <div class="h22"><h1>Anupam Yadav</h1>
+    <p>Hii my name Is Anupam Yadav and i am a<br /> computer programming student </p>
+    <h2>Skill</h2>
+    <p>C#,Sql,Mvc,Adio.Net,Entity Framework</p>
+    <p> Java,C++,Html,Css,Jquery</p>
+    </div>
+</div>   
+
+
+<div class="master2">
+
+    <div class="begin"><h2>Skill</h2><p> C#, MVC, Sql, Adio.Net</p>    </div>
+    <div class="begin2"><h2>Education</h2><p>I Am Beginner  </p>    </div>
+    <div class="begin3"><h2>hobbies</h2><p>Cricket , Singing  </p>    </div>
+
+</div>

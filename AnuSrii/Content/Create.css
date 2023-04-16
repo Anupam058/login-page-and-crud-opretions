@@ -1,0 +1,17 @@
+﻿body {
+    background-color:aquamarine;
+}
+.hadding {
+    text-align: center;
+    font-size: 33px;
+}
+.form-horizontal {
+    margin-left: 38%;
+}
+.form-group {
+    font-size: 23px;
+}
+.back {
+    font-size: 25px;
+    margin-left: 88%;
+}

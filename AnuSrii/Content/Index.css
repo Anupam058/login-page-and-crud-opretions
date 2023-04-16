@@ -1,0 +1,45 @@
+﻿body {
+    background-color: black;
+}
+.hadding {
+    text-align: center;
+    font-size: 31px;
+    color: #16e59c;
+}
+.form-horizontal {
+    border: 10px solid #b2f507d9;
+    background-color: #00f1ff;
+    width: 575px;
+    height: 333px;
+    margin-left: 30%;
+    margin-top: 65px;
+    border-radius: 5em;
+}
+.form-group {
+    margin-top: 25px;
+    margin-left: 130px;
+}
+.master1 {
+    margin-top: 63px;
+    position: absolute;
+}
+.for-img img {
+    height: 102px;
+    margin-left: 46%;
+    margin-bottom: -125px;
+}
+.btn-default {
+    font-size: 18px;
+    border-radius: 6px;
+    background-color: floralwhite;
+}
+.btn-default:hover{
+    background-color:cadetblue;
+}
+.control-label.col-md-2{
+    font-size:24px;
+}
+.form-control {
+    font-size: 17px;
+    border-radius: 4px;
+}
